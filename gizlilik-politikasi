@@ -1,0 +1,205 @@
+# Dynamic Island Gizlilik Politikası ve Kişisel Verilerin İşlenmesine İlişkin Aydınlatma Metni
+
+**Sürüm:** 1.0 — yayın öncesi taslak  
+**Son inceleme:** 19 Ekim 2026  
+**Yürürlük tarihi:** [Yayın tarihi]  
+**Uygulama:** Dynamic Island  
+**Android paket adı:** `com.fuslu.dynamicisland`  
+**Veri sorumlusu:** Fatih Uslu (bireysel geliştirici)  
+**Adres:** [Veri sorumlusunun başvuruya elverişli tebligat/iletişim adresi]  
+**Gizlilik ve destek iletişimi:** fusludev@gmail.com
+
+> Yayın hazırlığı notu: Köşeli parantezli alanlar tamamlanmadan bu metin nihai politika olarak yayımlanmamalıdır. Reklamlar, hedef kitle ve yurt dışı aktarım bölümleri mağazaya sunulan gerçek sürümle eşleştirilmelidir. Bu not, gerekli doğrulamalar tamamlandığında kaldırılmalıdır.
+
+## 1. Kapsam ve temel yaklaşım
+
+Bu politika, Dynamic Island uygulamasının Android cihazınızda bildirimleri, medya durumunu ve desteklenen etkin işlemleri ada görünümünde sunarken hangi bilgilere eriştiğini, hangi bilgileri sakladığını, hangi hizmetlerden yararlandığını ve bunlarla ilgili seçeneklerinizi açıklar. Ücretsiz kullanım, Premium özellikler, uygulama içi satın alma, uygulama içindeki reklamlar ve destek talepleri bu kapsamda değerlendirilir.
+
+Uygulamada geliştirici tarafından işletilen bir kullanıcı hesabı veya bildirim içeriklerinin gönderildiği bir sunucu bulunmamaktadır. Bununla birlikte Google reklam ve satın alma hizmetleri kendi işlevleri için veri işleyebilir. Dolayısıyla uygulamanın hiçbir koşulda veri işlemediği veya hiçbir dış hizmetle iletişim kurmadığı şeklinde bir taahhütte bulunmuyoruz.
+
+Bildirim içeriğini adada göstermek amacıyla yapılan cihaz içi işlemler ile reklam, satın alma ve destek hizmetleri birbirinden farklıdır. Bildirim mesajları reklam kişiselleştirmesi için kullanılmaz ve uygulama kodu tarafından reklam ya da satın alma hizmetlerine gönderilmez.
+
+Bu metin, Android izin ekranlarının, gerektiğinde gösterilecek ayrı aydınlatma ve tercih ekranlarının veya ilgili hizmetlerin kendi gizlilik açıklamalarının yerine geçmez. Uygulamayı indirmek, kullanmak veya bu metni okumak, bütün veri işlemlerine topluca açık rıza verdiğiniz anlamına gelmez.
+
+## 2. Bilgilere nasıl erişilir?
+
+Bilgilere başlıca şu yollarla erişilir:
+
+- Android ayarlarında sizin etkinleştirdiğiniz bildirim erişimi üzerinden işletim sisteminin uygulamaya ilettiği bildirimler.
+- Kullanmayı seçtiğiniz erişilebilirlik desteği üzerinden alınan pencere değişikliği olayları ve pencere durum bilgileri.
+- Android medya oturumu ve bildirim arayüzlerinin sağladığı oynatma, kronometre, sayaç ve kayıt durumu bilgileri.
+- Uygulamada değiştirdiğiniz ayarlar, oluşturduğunuz profiller ve seçtiğiniz uygulama kuralları.
+- Google Play satın alma arayüzünün ilettiği işlem ve hak sahipliği bilgileri.
+- Etkin olduğu sürümlerde Google reklam ve izin yönetimi bileşenlerinin otomatik işlemleri.
+- Destek adresine kendi isteğinizle gönderdiğiniz iletiler ve ekleri.
+
+Erişilebilen bilgiler Android sürümüne, cihaz üreticisine, kaynak uygulamanın sunduğu verilere ve verdiğiniz izinlere göre değişebilir. Android veya kaynak uygulama tarafından gizlenen içeriklere erişim garanti edilmez.
+
+## 3. Bildirimler ve mesaj içerikleri
+
+Bildirim erişimini açtığınızda uygulama, Android'in sağladığı ölçüde bildirim başlığını, mesaj metnini, gönderen veya konuşma adını, kaynak uygulama adını ve paket bilgisini, bildirim kimliğini, kanal bilgisini, zaman bilgisini, simgeleri, görselleri ve işlem düğmelerini işleyebilir. Mesajlaşma bildirimlerinde kaynak uygulamanın sunduğu son mesajlardan birden fazlası gösterilebilir. Mevcut uygulama, bu tür bir bildirimde en fazla son sekiz mesajı kullanacak biçimde hazırlanmıştır.
+
+Bu bilgiler; bildirimi adada göstermek, etkin işlemler yığınını oluşturmak, yinelenen güncellemeleri ayırt etmek, doğru uygulama simgesini göstermek ve sizin seçtiğiniz işlemi kaynak uygulamaya iletmek için kullanılır. İçerikten reklam profili, kullanıcı ilgi alanı profili veya kişiler arası ilişki haritası oluşturulmaz.
+
+Bildirim başlığı ve mesaj içeriği uygulama tarafından bilinçli olarak dosyaya, tercih deposuna veya bir bildirim geçmişi veritabanına kaydedilmez. Bildirimlerin işlenmesi sırasında kullanılan bilgiler çalışma belleğinde tutulur. Mevcut sürümde normal bildirim listesi en fazla 40 kayıtla sınırlandırılmıştır; bu sınır cihazdaki tüm sistem bildirimlerinin sayısını sınırlamaz.
+
+Bir bildirimin adadaki görünümünü kapatmak, çalışma belleğindeki tüm ilişkili bilgilerin aynı anda güvenli biçimde üzerine yazıldığı anlamına gelmez. Bilgiler kaynak bildirim kaldırılınca, bellek listesi yenilenince veya uygulama süreci sonlanınca kullanım dışına çıkabilir. Bildirim dinleyicisi yeniden bağlandığında Android'in hâlen etkin tuttuğu bildirimler tekrar okunabilir.
+
+Bildirimler; tek kullanımlık doğrulama kodu, finansal işlem, sağlık bilgisi, özel yazışma veya üçüncü kişilere ait bilgi içerebilir. Uygulama bu tür içerikleri özellikle talep etmez, kategorilere ayırmaz veya reklam amacıyla değerlendirmez. Bununla birlikte genel bildirim erişimi verildiğinde bu bilgiler kaynak bildirimin içinde uygulamaya ulaşabilir. Hassas içerikler için kaynak uygulamanın gizlilik ayarlarını ve varsa uygulama bazlı ada görünürlük seçeneklerini kullanabilirsiniz. Hiçbir otomatik filtreye bütün hassas bilgileri eksiksiz ayıklayacağı güvencesi verilmez.
+
+## 4. Bildirim işlemleri ve silme davranışı
+
+Bir bildirimin yanındaki kapatma düğmesi, ilgili öğenin adadaki görünürlüğünü kapatabilir; bu işlem tek başına Android bildirimini veya kaynak uygulamadaki mesajı silmez.
+
+“Tümünü temizle” işlevi, Android'in izin verdiği temizlenebilir bildirimler için sistemden kaldırma isteği gönderebilir. Devam eden servisler, medya oynatımı veya Android tarafından korunmuş bildirimler sistem tarafından kaldırılmayabilir. Bir bildirimin sistemden kaldırılması, ilgili mesajın kaynak uygulamadaki hesabınızdan veya o hizmetin sunucularından silindiği anlamına gelmez.
+
+“Aç”, medya kontrolü veya diğer işlem düğmelerine bastığınızda kaynak uygulamanın sağladığı işlem Android üzerinden çalıştırılır. Bu işlem kaynak uygulamayı açabilir, oynatmayı değiştirebilir veya kaynak uygulamanın bildirimde sunduğu başka bir işlemi gerçekleştirebilir. İşlemin kapsamı ilgili düğme ve kaynak uygulama tarafından belirlenir.
+
+## 5. Medya, kronometre, sayaç ve ses kaydı görünümü
+
+Desteklenen medya oturumlarından parça adı, sanatçı, kapak görseli, oynatma durumu, süre ve konum bilgileri alınabilir. Kronometre, sayaç ve ses kaydedici gibi uygulamaların bildirimlerinden süre, çalışma/duraklatma durumu ve kullanılabilir kontrol düğmeleri okunabilir.
+
+Dynamic Island bu işlevler için mikrofonu dinlemez veya ses kaydı oluşturmaz. Ekolayzır/dalga görünümü, mikrofon kaydı yapıldığı anlamına gelmez. Ses kaydı işlemini başlatan ya da durduran bir kaynak uygulama düğmesine basmanız hâlinde kayıt işlemi kaynak uygulamanın sorumluluğunda ve onun izinleriyle gerçekleşir.
+
+Mevcut uygulama kendi işlevleri için kamera, mikrofon, SMS, kişiler veya hassas konum erişim izni istemez. Kaynak bildirimin içinde sunulmuş bir kişi adı, avatar, mesaj veya görsel bu izinler istenmeden de bildirim erişimi yoluyla görüntülenebilir.
+
+## 6. Erişilebilirlik desteği ve pencere bilgileri
+
+İsteğe bağlı erişilebilirlik desteği; adanın uygun pencere katmanında gösterilmesine, dokunma davranışına ve bildirim paneli/hızlı ayarlar gibi sistem ekranlarında görünürlüğün yönetilmesine yardımcı olur. Mevcut kod pencere türü, etkinlik/odak durumu, pencere sınırları ve pencere değişikliği olayları gibi teknik bilgileri kullanır.
+
+Android erişilebilirlik izin açıklaması geniş yetkiler gösterebilir. Mevcut hizmet yapılandırmasında pencere içeriğine erişebilme yeteneği tanımlıdır; ancak mevcut uygulama kodu ekranın görünüm ağacını, yazılan metinleri veya erişilebilirlik düğümlerinin içeriğini okumaz; ekran görüntüsü almaz ve sizin yerinize dokunma/kaydırma hareketleri üretmez. Yetkinin teknik kapsamı ile mevcut kodun kullandığı bilgiler aynı değildir.
+
+Bu hizmetten alınan pencere bilgileri geliştiricinin sunucusuna veya reklam hizmetlerine aktarılmaz. Desteği Android erişilebilirlik ayarlarından kapatabilirsiniz. Kapatılması, bazı cihazlarda dokunma ve görünürlük davranışlarını etkileyebilir. İleride kullanım amacı veya okunan bilgi türleri değişirse ilgili açıklama ve gereken izin/tercih süreçleri de güncellenmelidir.
+
+## 7. Diğer izinler ve ekran davranışı
+
+**Diğer uygulamaların üzerinde gösterme:** Adanın başka uygulamalar açıkken görüntülenmesini sağlar. Bu izin tek başına arka plandaki uygulamanın bütün verilerinin okunması anlamına gelmez.
+
+**Bildirim gönderme ve ön plan hizmeti:** Adanın çalışmasını sürdüren servis ve uygulamanın kendi bildirimleri için kullanılır. Ana ekranın kapatılması veya uygulamanın son uygulamalar listesinden çıkarılması, başlattığınız servisi her cihazda durdurmayabilir. Uygulamadaki durdurma seçeneğini veya Android uygulama ayarlarını kullanabilirsiniz.
+
+**Ekranı uyandırma:** Etkinleştirildiğinde gelen bildirim için ekran kısa süreli aydınlatılabilir. Bu işlev güvenli ekran kilidini açmaz. Kilit ekranında gösterilen bildirim, cihazınıza fiziksel olarak yakın kişiler tarafından görülebilir; bu riski değerlendirerek ekran uyandırma ve kilit ekranı içerik seçeneklerinizi düzenleyin.
+
+**İnternet ve ağ durumu:** Reklam, izin yönetimi, Google Play satın alma ve bağlantılı dış sayfaların açılması gibi işlevlerde kullanılır. İnternet izni, bildirim mesajlarının geliştiriciye yüklendiği anlamına gelmez.
+
+Tam ekran medya algılama işlevi pencere/ekran yerleşimi ve sistem durumundan yararlanır; video görüntüsü veya ekran kaydı oluşturmaz.
+
+## 8. Uygulama simgeleri ve yerel tercihler
+
+Uygulama, kaynak uygulamaların adlarını ve simgelerini göstermek ve uygulama bazlı kuralları düzenlemek için Android'in erişime açtığı başlatılabilir uygulama bilgilerini sorgulayabilir. Bu bilgiler mevcut kodda reklam profili oluşturmak için kullanılmaz ve geliştiriciye bir yüklü uygulama envanteri olarak gönderilmez.
+
+Kalibrasyon ölçüleri, yatay/dikey konum, boşta boyutlar, tam ekran saydamlığı, ilk kurulumun görülmüş olması, ekran uyandırma tercihi, görünüm seçenekleri, uygulama bazlı görünürlük/öncelik kuralları ve sabitlenen etkinliklerin teknik anahtarları cihazdaki uygulamaya özel ayar alanında saklanabilir.
+
+Kaydettiğiniz profillerin adları ve içerdikleri ayarlar da burada tutulur. Profil adlarına kişisel veya gizli bilgi yazmamanız önerilir. Sabitleme anahtarları bildirim veya etkinliği eşleştirmeye yarayan teknik tanımlayıcılar içerebilir; bildirim mesajı metninin kalıcı kaydı amacıyla kullanılmaz.
+
+## 9. Premium ve Google Play satın alma
+
+Premium satın alma Google Play'in ödeme altyapısı üzerinden gerçekleştirilir. Uygulama, satın alınan ürünü doğrulamak ve özelliklerin kullanılabilirliğini belirlemek için ürün/paket bilgisi, satın alma durumu, işlem zamanı, satın alma belirteci, sipariş bilgisi ve Google Play'in sağladığı imzalı satın alma verilerini işleyebilir.
+
+İmzalı satın alma verisi ve imza, çevrimdışı hak sahipliği kontrolüne yardımcı olmak için cihazda saklanabilir. Mevcut sürüm geliştirici tarafından işletilen bir satın alma doğrulama sunucusuna bu kayıtları göndermez. Satın alma sorgulama veya geri yükleme sırasında Google Play ile iletişim kurulur.
+
+Tam kart numarası, kart güvenlik kodu, banka parolası veya Google hesabı parolanız uygulama tarafından alınmaz. Google Play, ödeme ve işlem kayıtlarını kendi koşulları ve yasal yükümlülükleri kapsamında saklayabilir. Uygulamanın kaldırılması bu kayıtları silmez ve kendiliğinden bir iade işlemi oluşturmaz.
+
+Premium, uygulamanın ayarlar ekranındaki banner reklamın gösterimini kaldırır. Bu, Google Play doğrulamalarının veya daha önce Google hizmetleri tarafından işlenmiş kayıtların otomatik olarak sona erdiği/silindiği anlamına gelmez.
+
+## 10. Reklamlar ve Google hizmetleri
+
+Uygulamaya Google Mobile Ads (AdMob) ve Google User Messaging Platform (UMP) bileşenleri eklenmiştir. Reklam alanı uygulamanın kendi ayarlar ekranındadır; bildirim mesajlarının içine, başka uygulamaların ekranına veya ada içindeki bildirim kontrollerinin arasına reklam yerleştirme amacı taşımaz.
+
+Google'ın SDK açıklamasına göre reklam bileşeni; IP adresi, cihaz/hesap tanımlayıcıları, kullanıcı ürün etkileşimleri ve tanılama bilgilerini reklam sunumu, ölçüm ve kötüye kullanımın önlenmesi gibi amaçlarla otomatik işleyebilir ve paylaşabilir. IP adresinden yaklaşık konum çıkarılabilir; bunun için uygulamanın GPS konum izni almış olması gerekmez. İşlenen tanımlayıcılar cihaz ve Google hizmetleri ayarlarına göre farklılaşabilir. Bildirim mesajı bu bileşenlere uygulama tarafından reklam girdisi olarak verilmez.
+
+Reklam tercihleri ve gerekli izin durumları UMP üzerinden yönetilebilir. Gerekli olduğunda ve hizmet bunu gerektirdiğinde reklam gizliliği seçenekleri sunulur. Kişiselleştirilmemiş veya sınırlı reklam da bütün teknik veri işlemlerinin ortadan kalktığı anlamına gelmez. Bir işletim sistemi izni vermek, reklam kişiselleştirmesine ayrıca rıza verdiğiniz anlamına gelmez.
+
+**Mevcut test sürümüne ilişkin açıklama:** Geliştirme sürümünde Google'ın örnek reklam kimlikleri kullanılır ve reklam isteklerinden önce üretim sürümündeki UMP akışı çalıştırılmaz. Test reklamı kullanılması, Google SDK'sının hiç ağ bağlantısı kurmadığı veya hiç veri işlemediği anlamına gelmez. Bu sürüm, nihai ticari dağıtım için gerekli tercih ve hukuki değerlendirmelerin tamamlandığı iddiasıyla sunulmaz.
+
+**Üretim sürümüne ilişkin açıklama:** Mevcut kodda gerçek banner kimliği ve HTTPS gizlilik politikası adresi tanımlanmadan üretim reklam isteği devreye girmez. Reklamlar etkinleştirildiğinde gerçek AdMob/UMP yapılandırması, geçerli hukuki dayanak ve kullanıcı tercihleriyle uyumlu olmalıdır. Bir izin yönetimi aracının bulunması tek başına bütün ülkelerdeki yasal yükümlülüklerin yerine getirildiği anlamına gelmez.
+
+Google'ın uyguladığı ayrıntılar için [Google Gizlilik Politikası](https://policies.google.com/privacy), [Google Mobile Ads veri açıklaması](https://developers.google.com/admob/android/privacy/play-data-disclosure) ve [UMP açıklamaları](https://developers.google.com/admob/android/privacy) incelenebilir. Google'ın hizmetlerine ilişkin açıklamalar bu politikadaki geliştirici yükümlülüklerini ortadan kaldırmaz.
+
+## 11. Teknik kayıtlar ve destek
+
+Mevcut uygulamada geliştiricinin işlettiği uzaktan analitik veya çökme raporlama hizmeti yapılandırılmamıştır. Bazı teknik hatalar Android'in yerel günlük mekanizmasına yazılabilir; bu kayıtlar hata türü ve teknik çalışma bilgisi içerebilir. Bildirim metinlerinin teknik günlüklere kaydedilmesi amaçlanmaz. Android'in veya cihaz üreticisinin tanılama hizmetleri kendi ayarlarına tabi olabilir.
+
+fusludev@gmail.com adresine yazdığınızda e-posta adresiniz, iletide belirttiğiniz adınız, mesaj içeriğiniz ve gönderdiğiniz ekler destek talebinizi yanıtlamak için işlenir. E-posta hizmeti sağlayıcısı iletim ve saklama hizmeti sırasında bu verilere erişebilir. Sorunun çözümü için gerekli olmayan kişisel bilgileri göndermeyin; ekran görüntülerindeki doğrulama kodlarını, özel yazışmaları, sağlık ve finans bilgilerini gizleyin. Parola, kart güvenlik kodu veya tam banka giriş bilgisi göndermeniz istenmez.
+
+Destek yazışmaları, talebin karşılanması, gerektiğinde uyuşmazlığın incelenmesi ve uygulanabilir hukuki yükümlülüklerin yerine getirilmesi için gerekli süreyle sınırlı tutulmalıdır. **Destek kayıtlarının somut saklama süresi/kriteri:** [İşletmeci tarafından belirlenip eklenecek]. Belirli bir uyuşmazlık veya yasal saklama gereği varsa yalnızca ilgili kayıtlar bu gereğin devam ettiği süre boyunca tutulabilir.
+
+## 12. Saklama, yedekleme ve silme
+
+Veri türlerine göre saklama yaklaşımı farklıdır:
+
+| Veri | Bulunduğu yer ve saklama yaklaşımı |
+| --- | --- |
+| Bildirim içeriği ve etkin oturum durumu | Çalışma belleğinde; aktif durum, sınırlı liste ve süreç ömrüyle ilişkili olarak işlenir. Kalıcı bildirim arşivi oluşturulmaz. |
+| Kalibrasyon, görünüm, uygulama kuralları ve profiller | Uygulamanın özel yerel ayar alanında, değiştirilene veya uygulama verisi silinene kadar kalabilir. |
+| Satın alma doğrulama önbelleği | Yerel özel ayar alanında, hak sahipliği kontrolü ve yeniden sorgulama için tutulabilir; uygulama verisi silinince kaldırılır. |
+| Destek yazışmaları | Yukarıda belirtilen amaç ve somut saklama kriteriyle sınırlıdır. |
+| Google reklam/ödeme kayıtları | İlgili Google hizmetinin saklama düzenine ve uygulanabilir yükümlülüklerine tabidir; uygulama bunların tamamını tek başına silemez. |
+
+Uygulamada Android yedekleme özelliği açıktır. Cihazınızın yedekleme veya cihazlar arası taşıma ayarlarına göre bazı yerel tercihler, profil adları, uygulama kuralları ve sabitleme anahtarları işletim sistemi/cihaz sağlayıcısının yedeklerine dâhil olabilir. Satın alma önbelleği mevcut yedekleme kurallarında bulut yedeği ve cihaz aktarımı dışında bırakılmıştır. Bildirim mesajları kalıcı olarak kaydedilmediğinden uygulamanın oluşturduğu bir bildirim içerik arşivi yedeklenmez.
+
+Android ayarlarında uygulamanın depolama/veri temizleme işlevini kullanabilir veya uygulamayı kaldırabilirsiniz. Bu işlemler cihazdaki uygulama verisini Android'in olağan davranışı kapsamında kaldırır; mevcut yedeklerin, Google Play kayıtlarının, e-posta yazışmalarının veya kaynak uygulamadaki mesajların tamamını otomatik olarak silmez. Yedekten geri yükleme bazı tercihleri tekrar getirebilir. Uygulamaya ait ayrı bir hesap olmadığı için geliştirici hesabı kapatma işlemi bulunmaz; destek üzerinden size ilişkin elde tutulan kayıtlar hakkında başvurabilirsiniz.
+
+## 13. İşleme amaçları ve hukuki sebepler
+
+Veriler yalnızca ilgili amaç için gerekli kapsamda işlenmelidir. Android izni teknik erişim sağlar; uygulanabilir kişisel veri hukukundaki işleme şartının ayrıca bulunması gerekir.
+
+- Seçtiğiniz ada, bildirim ve kontrol işlevlerini sağlamak için gereken işlemler, uygulanabildiği ölçüde talep ettiğiniz hizmetin kurulması veya ifasıyla doğrudan bağlantılı olma şartı kapsamında değerlendirilir.
+- Premium hakkının tanınması ve doğrulanması, satın alma ilişkisinin yürütülmesi için gerekli işlemlerle sınırlıdır.
+- Destek ve güvenlik işlemlerinde amaca göre sözleşmenin ifası, bir hakkın tesisi/kullanılması/korunması veya temel haklarınıza zarar vermeyen meşru menfaat şartları değerlendirilebilir. Meşru menfaat gerekçesi bildirim içeriklerinin reklam profiline dönüştürülmesini kapsamaz.
+- Gerçekten mevcut olan bir yasal yükümlülüğün yerine getirilmesi için gereken kayıtlar ilgili yükümlülükle sınırlı işlenebilir.
+- Açık rıza gereken reklam veya başka bir isteğe bağlı işlem, ilgili bilgilendirme ve tercih süreciyle ayrıca ele alınmalıdır. Rızanın geri alınması, geri alma öncesindeki işlemlerin hukuka uygunluğunu kendiliğinden etkilemez.
+
+**Yayın öncesi tamamlanacak değerlendirme:** [Her faaliyet için uygulanacak somut hukuki şart ve varsa ayrı açık rıza süreci veri sorumlusu tarafından kesinleştirilecek]. Özel nitelikli kişisel veriler için genel işleme şartlarına dayanılabileceği varsayılmaz; bu veriler bakımından uygulanabilir özel şartların ayrıca değerlendirilmesi gerekir. Bu taslak, kendiliğinden bütün işlemler için hukuki dayanak oluşturmaz.
+
+## 14. Alıcılar ve yurt dışı aktarım
+
+Uygulamanın mevcut kodunda bildirim mesajlarını alan bir geliştirici sunucusu bulunmaz. Seçtiğiniz kontroller kaynak uygulamalara Android arayüzleri üzerinden iletilir. Google reklam, izin yönetimi ve satın alma hizmetleri; e-posta desteği ve isteğe bağlı işletim sistemi yedekleri ise kendi işlevleri kapsamında ilgili bilgileri işleyebilir. Yetkili makamlarla paylaşım, ancak uygulanabilir hukukta geçerli bir zorunluluk ve buna uygun kapsam bulunduğunda yapılmalıdır.
+
+Google veya kullanılan diğer hizmetlerin teknik altyapısı nedeniyle ilgili veriler Türkiye dışındaki ülkelerde işlenebilir. Bir hizmetin yabancı olması, her veri türünün uygulama tarafından o hizmete gönderildiği anlamına gelmez; özellikle bildirim içeriği reklam veya satın alma hizmetine gönderilmez.
+
+**Somut alıcı kuruluşlar, işlenen veri kategorileri, aktarım ülkeleri veya bunların belirlenme kriterleri ve geçerli yurt dışı aktarım mekanizması:** [Üretim hizmetleri ve sözleşmeler incelenerek tamamlanacak]. Türkiye bakımından uygulanabilir KVKK yurt dışı aktarım şartları ayrıca sağlanmalıdır. Avrupa için sunulan bir izin penceresi veya yabancı bir sözleşme, tek başına Türkiye'deki aktarım şartlarının karşılandığının kanıtı değildir.
+
+Geliştirici bildirim içeriklerini satmaz, reklam hedefleme amacıyla dış hizmetlere vermez. Reklam hizmetinin kendi veri paylaşımı, bu bölümde ve reklam bölümünde açıklanan ayrı işlemler kapsamında değerlendirilmelidir; bu ifade bütün veri türlerinin hiçbir alıcıyla paylaşılmadığı anlamına gelmez.
+
+## 15. Güvenlik
+
+İşlenen bilgilere erişimin sınırlandırılması, Android'in uygulama alanı ayrımı, gerekli izinlerin kullanıcı kontrolünde tutulması ve bildirimlerin kalıcı arşivlenmemesi temel koruma yaklaşımımızdır. Yerel tercihler uygulamaya özel depolamada tutulur; mevcut kod bunların tamamına ayrıca uygulama seviyesinde şifreleme uygulamamaktadır. Bu nedenle “bütün veriler uçtan uca şifrelenir” şeklinde bir iddiamız bulunmaz.
+
+Hiçbir yazılım veya cihaz için mutlak güvenlik garantisi verilemez. Root edilmiş, zararlı yazılım bulaşmış, kilidi açık bırakılmış veya üretici güvenlik desteği sona ermiş cihazlarda korumalar etkilenebilir. Bu açıklama geliştiricinin uygulanabilir güvenlik yükümlülüklerini veya kullanıcıların yasal haklarını sınırlandırmaz.
+
+Bir kişisel veri ihlali tespit edilirse olayın kapsamı değerlendirilir; uygulanabilir mevzuatın gerektirdiği önlemler, bildirimler ve bilgilendirmeler öngörülen sürelerde yerine getirilmelidir.
+
+## 16. Seçenekleriniz
+
+Bildirim erişimini, erişilebilirlik desteğini ve diğer uygulamaların üzerinde gösterme iznini Android ayarlarından ayrı ayrı kapatabilirsiniz. Gerekli izinlerin kaldırılması ilgili ada işlevini durdurabilir veya kısıtlayabilir. Kaynak uygulamanın kendi bildirim izinleri de gördüğünüz içeriği etkiler.
+
+Ekran uyandırmayı uygulama ayarından kapatabilir; mevcut sürümün sunduğu ölçüde uygulama bazlı görünürlük, profil ve görünüm tercihlerini değiştirebilirsiniz. Kullanılabilir olduğunda reklam gizliliği seçeneklerini açabilir ve Android'in reklam tanımlayıcısı ayarlarını yönetebilirsiniz. Bazı reklam türleri engellense bile satın alma veya zorunlu güvenlik işlemleri gibi farklı amaçlara ait işlemler devam edebilir.
+
+Yalnızca ilgili izni kapatmak önceki destek yazışmalarını veya Google tarafından tutulmuş kayıtları silmez. Silme talepleri veri türüne ve ilgili hizmete göre ayrıca ele alınır.
+
+## 17. Haklarınız ve başvuru
+
+KVKK'nın uygulanabildiği durumlarda, kanuni şartlar çerçevesinde verilerinizin işlenip işlenmediğini öğrenme; işlenen verilere ilişkin bilgi isteme; amaç ve kullanımı öğrenme; yurt içi/yurt dışı alıcıları öğrenme; yanlış veya eksik verilerin düzeltilmesini; gerekli şartlarda silme veya yok etmeyi ve ilgili alıcılara bildirim yapılmasını isteme haklarınız vardır. Yalnızca otomatik analizden doğan aleyhinize sonuçlara itiraz edebilir ve hukuka aykırı işlem nedeniyle zararınız oluşmuşsa giderilmesini talep edebilirsiniz.
+
+Gizlilik soruları ve talepler için **fusludev@gmail.com** adresine ulaşabilirsiniz. KVKK kapsamındaki resmî başvurular, uygulanabilir başvuru usullerine uygun olarak yukarıdaki veri sorumlusuna yöneltilmelidir. Olağan bir e-postanın her durumda resmî başvurunun tüm şekil şartlarını karşıladığı varsayılmaz. Talebinizi ve size yanıt verebileceğimiz iletişim bilgisini belirtin; kimliğin doğrulanması gereken hâllerde yalnızca gerekli ve ölçülü ek bilgi istenmelidir.
+
+Başvurular, KVKK kapsamına girdikleri ölçüde en kısa sürede ve en geç 30 gün içinde sonuçlandırılır. Kural olarak ücret alınmaz; ilgili düzenlemenin izin verdiği ayrıca bir maliyet bulunursa mevzuattaki şartlar uygulanır. Başvuru veya şikâyet haklarınız bu politikayla kaldırılmaz. Kurula şikâyet yolunun kullanılabilmesi için önce veri sorumlusuna başvuru ve kanuni süreler gözetilmelidir. Güncel usuller için [Kişisel Verileri Koruma Kurumunun açıklamalarını](https://www.kvkk.gov.tr/Icerik/2062/Basvuru-Hakki) inceleyebilirsiniz.
+
+Başka bir ülkenin veri koruma hukukunun uygulanması hâlinde erişim, silme, itiraz, kısıtlama veya taşınabilirlik gibi ilave haklarınız bulunabilir; talepler geçerli hukuk, teknik kapsam ve ilgili tarafın sorumluluğu dikkate alınarak ele alınır. Uygulama belleğinde artık bulunmayan ve geliştirici tarafından saklanmayan bir bildirim arşivinin tarafımızdan oluşturulup sunulacağı taahhüt edilmez.
+
+## 18. Çocuklar ve hedef kitle
+
+Dynamic Island çocuklara özel tasarlanmış bir uygulama değildir. İçeriği, cihazında bildirim ve görünürlük ayarlarını yönetmek isteyen kullanıcılara yönelik yardımcı işlevlerden oluşur. Uygulama mevcut sürümde yaş veya doğum tarihi toplayan bir yaş doğrulama sistemi içermez.
+
+**Mağaza hedef yaş grupları ve gerekiyorsa asgari kullanım yaşı:** [Gerçek hedef kitle, dağıtım ülkeleri ve reklam yapılandırmasıyla birlikte kesinleştirilecek]. Bu politika kendiliğinden 18 yaş sınırı koymaz. Mağazadaki içerik derecelendirmesi, geliştiricinin hedef kitle seçimi ve kişisel veriler için geçerli yaş/rıza kuralları farklı konulardır.
+
+Çocuklara yönelik dağıtım veya çocukların hedef kitleye dâhil edilmesi planlanırsa reklam, izin, veli onayı ve ilgili mağaza gereklilikleri ayrıca uygulanmalıdır. Çocuk verileriyle ilgili bir endişeniz varsa gereksiz kişisel bilgi göndermeden iletişim adresine başvurabilirsiniz.
+
+## 19. Diğer hizmetler ve politika değişiklikleri
+
+Uygulamadan açtığınız kaynak uygulamalar, Google Play, reklam hizmetleri, e-posta hizmetleri ve işletim sistemi yedekleri kendi işlemleri hakkında ayrı açıklamalar sunabilir. Bir dış bağlantıyı açmanız ilgili hizmetle doğrudan etkileşim oluşturabilir. Bu durum, Dynamic Island'ın kendi işlemlerine ilişkin sorumluluklarını ortadan kaldırmaz.
+
+Yeni bir veri türü, hizmet sağlayıcı veya kullanım amacı eklenirse bu metin gerçek işleyişi yansıtacak şekilde güncellenmelidir. Son güncelleme tarihi metinde belirtilir. Gerekli olduğu durumlarda önemli değişiklikler ayrıca açıklanır ve yeni işlem için gereken tercih veya rıza alınır; yalnızca politikanın değiştirilmesi geçmişe dönük sınırsız izin oluşturmaz.
+
+**Kalıcı politika adresi:** [Herkese açık HTTPS politika adresi]  
+**İletişim:** fusludev@gmail.com
