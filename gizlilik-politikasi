@@ -7,7 +7,7 @@
 **Android paket adı:** `com.fuslu.dynamicisland`  
 **Veri sorumlusu:** Fatih Uslu (bireysel geliştirici)  
 **Adres:** [Veri sorumlusunun başvuruya elverişli tebligat/iletişim adresi]  
-**Gizlilik ve destek iletişimi:** fusludev@gmail.com
+**Gizlilik ve destek iletişimi:** fuslu.dev@gmail.com
 
 > Yayın hazırlığı notu: Köşeli parantezli alanlar tamamlanmadan bu metin nihai politika olarak yayımlanmamalıdır. Reklamlar, hedef kitle ve yurt dışı aktarım bölümleri mağazaya sunulan gerçek sürümle eşleştirilmelidir. Bu not, gerekli doğrulamalar tamamlandığında kaldırılmalıdır.
 
@@ -119,7 +119,7 @@ Google'ın uyguladığı ayrıntılar için [Google Gizlilik Politikası](https:
 
 Mevcut uygulamada geliştiricinin işlettiği uzaktan analitik veya çökme raporlama hizmeti yapılandırılmamıştır. Bazı teknik hatalar Android'in yerel günlük mekanizmasına yazılabilir; bu kayıtlar hata türü ve teknik çalışma bilgisi içerebilir. Bildirim metinlerinin teknik günlüklere kaydedilmesi amaçlanmaz. Android'in veya cihaz üreticisinin tanılama hizmetleri kendi ayarlarına tabi olabilir.
 
-fusludev@gmail.com adresine yazdığınızda e-posta adresiniz, iletide belirttiğiniz adınız, mesaj içeriğiniz ve gönderdiğiniz ekler destek talebinizi yanıtlamak için işlenir. E-posta hizmeti sağlayıcısı iletim ve saklama hizmeti sırasında bu verilere erişebilir. Sorunun çözümü için gerekli olmayan kişisel bilgileri göndermeyin; ekran görüntülerindeki doğrulama kodlarını, özel yazışmaları, sağlık ve finans bilgilerini gizleyin. Parola, kart güvenlik kodu veya tam banka giriş bilgisi göndermeniz istenmez.
+fuslu.dev@gmail.com adresine yazdığınızda e-posta adresiniz, iletide belirttiğiniz adınız, mesaj içeriğiniz ve gönderdiğiniz ekler destek talebinizi yanıtlamak için işlenir. E-posta hizmeti sağlayıcısı iletim ve saklama hizmeti sırasında bu verilere erişebilir. Sorunun çözümü için gerekli olmayan kişisel bilgileri göndermeyin; ekran görüntülerindeki doğrulama kodlarını, özel yazışmaları, sağlık ve finans bilgilerini gizleyin. Parola, kart güvenlik kodu veya tam banka giriş bilgisi göndermeniz istenmez.
 
 Destek yazışmaları, talebin karşılanması, gerektiğinde uyuşmazlığın incelenmesi ve uygulanabilir hukuki yükümlülüklerin yerine getirilmesi için gerekli süreyle sınırlı tutulmalıdır. **Destek kayıtlarının somut saklama süresi/kriteri:** [İşletmeci tarafından belirlenip eklenecek]. Belirli bir uyuşmazlık veya yasal saklama gereği varsa yalnızca ilgili kayıtlar bu gereğin devam ettiği süre boyunca tutulabilir.
 
@@ -181,7 +181,7 @@ Yalnızca ilgili izni kapatmak önceki destek yazışmalarını veya Google tara
 
 KVKK'nın uygulanabildiği durumlarda, kanuni şartlar çerçevesinde verilerinizin işlenip işlenmediğini öğrenme; işlenen verilere ilişkin bilgi isteme; amaç ve kullanımı öğrenme; yurt içi/yurt dışı alıcıları öğrenme; yanlış veya eksik verilerin düzeltilmesini; gerekli şartlarda silme veya yok etmeyi ve ilgili alıcılara bildirim yapılmasını isteme haklarınız vardır. Yalnızca otomatik analizden doğan aleyhinize sonuçlara itiraz edebilir ve hukuka aykırı işlem nedeniyle zararınız oluşmuşsa giderilmesini talep edebilirsiniz.
 
-Gizlilik soruları ve talepler için **fusludev@gmail.com** adresine ulaşabilirsiniz. KVKK kapsamındaki resmî başvurular, uygulanabilir başvuru usullerine uygun olarak yukarıdaki veri sorumlusuna yöneltilmelidir. Olağan bir e-postanın her durumda resmî başvurunun tüm şekil şartlarını karşıladığı varsayılmaz. Talebinizi ve size yanıt verebileceğimiz iletişim bilgisini belirtin; kimliğin doğrulanması gereken hâllerde yalnızca gerekli ve ölçülü ek bilgi istenmelidir.
+Gizlilik soruları ve talepler için **fuslu.dev@gmail.com** adresine ulaşabilirsiniz. KVKK kapsamındaki resmî başvurular, uygulanabilir başvuru usullerine uygun olarak yukarıdaki veri sorumlusuna yöneltilmelidir. Olağan bir e-postanın her durumda resmî başvurunun tüm şekil şartlarını karşıladığı varsayılmaz. Talebinizi ve size yanıt verebileceğimiz iletişim bilgisini belirtin; kimliğin doğrulanması gereken hâllerde yalnızca gerekli ve ölçülü ek bilgi istenmelidir.
 
 Başvurular, KVKK kapsamına girdikleri ölçüde en kısa sürede ve en geç 30 gün içinde sonuçlandırılır. Kural olarak ücret alınmaz; ilgili düzenlemenin izin verdiği ayrıca bir maliyet bulunursa mevzuattaki şartlar uygulanır. Başvuru veya şikâyet haklarınız bu politikayla kaldırılmaz. Kurula şikâyet yolunun kullanılabilmesi için önce veri sorumlusuna başvuru ve kanuni süreler gözetilmelidir. Güncel usuller için [Kişisel Verileri Koruma Kurumunun açıklamalarını](https://www.kvkk.gov.tr/Icerik/2062/Basvuru-Hakki) inceleyebilirsiniz.
 
@@ -202,4 +202,4 @@ Uygulamadan açtığınız kaynak uygulamalar, Google Play, reklam hizmetleri, e
 Yeni bir veri türü, hizmet sağlayıcı veya kullanım amacı eklenirse bu metin gerçek işleyişi yansıtacak şekilde güncellenmelidir. Son güncelleme tarihi metinde belirtilir. Gerekli olduğu durumlarda önemli değişiklikler ayrıca açıklanır ve yeni işlem için gereken tercih veya rıza alınır; yalnızca politikanın değiştirilmesi geçmişe dönük sınırsız izin oluşturmaz.
 
 **Kalıcı politika adresi:** [Herkese açık HTTPS politika adresi]  
-**İletişim:** fusludev@gmail.com
+**İletişim:** fuslu.dev@gmail.com
